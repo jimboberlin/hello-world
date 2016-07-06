@@ -1,0 +1,17 @@
+{
+    "name": "jimboberlin/hello-world",
+    "description": "Hello World Testing Package",
+    "keywords": ["hello-world"],
+    "type": "library",
+    "homepage": "https://github.com/jimboberlin/hello-world/",
+    "license": "Apache2",
+    "authors": [
+        {
+            "name": "Jim",
+            "homepage": "https://github.com/jimboberlin/hello-world/contributors"
+        }
+    ],
+    "require": {
+    },
+    
+}
